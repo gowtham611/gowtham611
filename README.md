@@ -37,6 +37,10 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham611&layout=compact&theme=radical)
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=radical)
+
+
 
 
 
