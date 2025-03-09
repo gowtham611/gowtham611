@@ -14,11 +14,11 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gowtham-r-317ab527b" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40" style="margin-right: 10px;">
-</a>
-<a href="https://www.instagram.com/gowtham_shetty_r" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gowtham_shetty_r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 
