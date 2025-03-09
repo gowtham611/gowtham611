@@ -42,7 +42,7 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowtham611&theme=github-dark)
 
-![Avatar](https://avatars.dicebear.com/api/bottts/gowtham611.svg)
+
 
 
 
