@@ -10,7 +10,7 @@
 Neural networks, especially generative models like GANs and diffusion models, can sometimes produce completely unrealistic yet convincing outputs. For example, AI-generated images may contain bizarre distortions or patterns that never existed in reality. This is because the model is learning patterns from data but doesn't truly "understand" the world like humans do.
 
 ### Connect With Me
-## Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/gowtham-r-317ab527b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
@@ -33,6 +33,8 @@ Neural networks, especially generative models like GANs and diffusion models, ca
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=gowtham611&label=Profile%20Views&color=blue&style=flat)
+
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham611&layout=compact&theme=radical)
