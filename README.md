@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gowtham611
+# 👋 Hi, I’m Gowtham R
 ## Machine Learning & Deep Learning Enthusiast | AI & Prompt Engineering | Building Intelligent Systems
 - 🔭 I’m currently working on Ai Powered Compiler
 - 🌱 I’m currently learning Pytorch, DSA in Python
@@ -39,6 +39,9 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=radical)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=radical)
+
 
 
 
