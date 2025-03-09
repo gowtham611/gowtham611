@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gowtham R
-## Machine Learning & Deep Learning Enthusiast | AI & Prompt Engineering | Building Intelligent Systems
+## Machine Learning & Deep Learning Enthusiast  Building intelligent and adaptive AI systems with ML, DL, and RL.
 - 🔭 I’m currently working on Ai Powered Compiler
 - 🌱 I’m currently learning Pytorch, DSA in Python
 - 💞️ I’m looking to collaborate on AI Powered Compiler
@@ -37,7 +37,7 @@ Neural networks, especially generative models like GANs and diffusion models, ca
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=gowtham611&label=Profile%20Views&color=blue&style=flat)
+
 
 
 ## 📊 Most Used Languages
