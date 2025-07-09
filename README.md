@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gowtham R
-## Machine Learning & Deep Learning Enthusiast  Building intelligent and adaptive AI systems with ML, DL, and RL.
+
 - 🔭 I’m currently working on Edge powered explainableAI based crop recommendation system
 - 🌱 I’m currently learning Pytorch, DSA in C++
 - 💞️ I’m looking to collaborate on Edge powered explainableAI based crop recommendation system
