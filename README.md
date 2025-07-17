@@ -10,6 +10,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gowtham611&theme=default)](https://git.io/streak-stats)
 
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=default)
+
+
 
 - ⚡ Fun fact: Deep Learning models can "hallucinate"!
 
