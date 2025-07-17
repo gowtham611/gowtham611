@@ -8,11 +8,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=gowtham611&color=blue&style=flat&label=Profile+views)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gowtham611&theme=default)](https://git.io/streak-stats)
-
-
-
-
 - ⚡ Fun fact: Deep Learning models can "hallucinate"!
 
 Neural networks, especially generative models like GANs and diffusion models, can sometimes produce completely unrealistic yet convincing outputs. For example, AI-generated images may contain bizarre distortions or patterns that never existed in reality. This is because the model is learning patterns from data but doesn't truly "understand" the world like humans do.
@@ -51,6 +46,9 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gowtham611&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowtham611&theme=github-dark)
 
