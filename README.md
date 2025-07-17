@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gowtham R
 
 - 🔭 I’m currently working on Edge powered explainableAI based crop recommendation system
-- 🌱 I’m currently learning Pytorch, DSA in C++
+- 🌱 I’m currently learning Pytorch, DSA in Js
 - 💞️ I’m looking to collaborate on Edge powered explainableAI based crop recommendation system
 - 📫 How to reach me gow636333@gmail.com
 
