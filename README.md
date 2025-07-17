@@ -8,6 +8,8 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=gowtham611&color=blue&style=flat&label=Profile+views)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gowtham611&theme=default)](https://git.io/streak-stats)
+
 
 - ⚡ Fun fact: Deep Learning models can "hallucinate"!
 
