@@ -58,7 +58,6 @@ Neural networks, especially generative models like GANs and diffusion models, ca
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham611&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/gowtham611/gowtham611/blob/output/github-contribution-grid-snake.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowtham611&theme=tokyonight)](https://git.io/streak-stats)
 
 
